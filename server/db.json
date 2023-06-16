@@ -1,0 +1,46 @@
+{
+  "credentials": [
+    {
+      "id": 2,
+      "name": "bobi",
+      "url": "http://test.com",
+      "username": "bobi",
+      "password": "bobi123"
+    },
+    {
+      "id": 3,
+      "name": "bobi",
+      "url": "http://test.com",
+      "username": "bobi",
+      "password": "bobi123"
+    },
+    {
+      "name": "test123",
+      "url": "https://test.com",
+      "username": "user",
+      "password": "pass",
+      "id": 4
+    },
+    {
+      "name": "test12",
+      "url": "https://test.com",
+      "username": "user",
+      "password": "pass",
+      "id": 5
+    },
+    {
+      "name": "test12 edit",
+      "url": "https://test.com",
+      "username": "user edit",
+      "password": "pass edit",
+      "id": 6
+    },
+    {
+      "name": "test12",
+      "url": "https://test.com",
+      "username": "user",
+      "password": "pass",
+      "id": 7
+    }
+  ]
+}
